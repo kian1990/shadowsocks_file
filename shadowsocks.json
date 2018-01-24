@@ -1,0 +1,16 @@
+{
+"server":"0.0.0.0",
+"local_address": "127.0.0.1",
+"local_port":1080,
+
+"port_password":{
+"8002":"password1",
+"8002":"password2",
+"8003":"password3",
+"8004":"password4"
+},
+
+"timeout":600,
+"method":"aes-256-cfb",
+"fast_open": false
+}
